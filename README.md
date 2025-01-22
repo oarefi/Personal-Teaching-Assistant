@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com](mailto:arefianbaraniojan.com).
+For questions or support, please contact [arefianbaraniojan@gmail.com](mailto:arefianbaraniojan.com).
